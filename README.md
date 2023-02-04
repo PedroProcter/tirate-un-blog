@@ -28,7 +28,11 @@
 ---
 **Notas de versión**
 -
-*Estamos en la versión 0.0 actualmente de nuestra pagina web. Estaremos aprendiendo las diferentes tecnologías o lenguajes para poder dominar el Frontend. Nuestros objetivos en esta versión son:*
+*Para inicializar el proyecto deberas ingresar el siguiente comando:*
+
+`npm install`
+
+*Estamos en la versión 0.0.0 actualmente de nuestra pagina web. Estaremos aprendiendo las diferentes tecnologías o lenguajes para poder dominar el Frontend. Nuestros objetivos en esta versión son:*
 
 - *Aprender los conceptos básicos de JS, HTML5 y CSS.*
 

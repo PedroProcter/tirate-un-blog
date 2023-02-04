@@ -1,0 +1,22 @@
+{
+  "name": "tirate-un-blog",
+  "version": "0.0.0",
+  "description": "Implementacion inicial de la pagina web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroProcter/tirate-un-blog.git"
+  },
+  "author": "Pedro Procter, Luis Alejandro y Eliam Paredes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroProcter/tirate-un-blog/issues"
+  },
+  "homepage": "https://github.com/PedroProcter/tirate-un-blog#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
